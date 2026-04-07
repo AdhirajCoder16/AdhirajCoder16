@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%2B+Robotics+Engineer;Computer+Vision+Enthusiast;Building+Autonomous+Systems&center=true&width=500&height=50&color=%23FF9933">
 </p>
 
+<img align = "right" alt = "coding" width ="400" src = "https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdhirajCoder16&label=Profile%20views&color=0e75b6&style=flat" alt="AdhirajCoder16" /> </p>
 
 Hi , I'm **Adhiraj Singh Saini**.  
 A Robotics & AI Enthusiast currently working on **robotics projects, AI/ML, and embedded systems**.
@@ -13,9 +16,26 @@ A Robotics & AI Enthusiast currently working on **robotics projects, AI/ML, and 
 - AI/ML pipelines for object detection and sensor fusion  
 - Embedded‑system security and Cybersecurity fundamentals  
 
-### How to Reach Me
-- Email: [adhirajsinghsaini16@gmail.com](mailto:adhirajsinghsaini16@gmail.com)  
-- Linkedin: [Adhiraj](https://www.linkedin.com/in/adhiraj-singh-saini-855805322/) 
+##  How to Reach Me  
+
+-  Email: [adhirajsinghsaini16@gmail.com](mailto:adhirajsinghsaini16@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/adhiraj-singh-saini-855805322/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adhiraj LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://x.com/SainiAdhiraj" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Adhiraj X" height="30" width="30" />
+</a>
+
+<a href="https://discord.com/users/sniperkiller70601" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adhiraj Discord" height="30" width="40" />
+</a>
+
+</p>
 
 ###  What I'm Up To
 - Building and documenting **robotics and AI projects**.  
