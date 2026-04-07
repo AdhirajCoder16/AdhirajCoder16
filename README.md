@@ -69,6 +69,22 @@ A Robotics & AI Enthusiast currently working on **robotics projects, AI/ML, and 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge)  ![RViz](https://img.shields.io/badge/RViz-3D%20Visualizer-blue?style=for-the-badge)  ![Webots](https://img.shields.io/badge/Webots-Robot%20Simulator-purple?style=for-the-badge)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<h3 align="center"> GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhirajcoder16&show_icons=true&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhirajcoder16&layout=compact&theme=radical" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajcoder16&theme=radical" height="140"/>
+</p>
+
+
+
 ###  Dev Quote for Motivation 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
