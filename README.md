@@ -71,13 +71,7 @@ A Robotics & AI Enthusiast currently working on **robotics projects, AI/ML, and 
 
 <h3 align="center"> GitHub Analytics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhirajcoder16&show_icons=true&theme=radical" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhirajcoder16&layout=compact&theme=radical" height="140"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajcoder16&theme=radical" height="140"/>
