@@ -9,7 +9,7 @@
 Hi, I'm **Adhiraj Singh Saini** 👋  
 A Software Engineer deeply focused on building **high-performance backend architectures, robust database management systems, and automated DevOps pipelines**, with a strong foundation in **Embedded Systems & Computer Networks**.
 
--  **Current Focus:** Building production-grade REST APIs, mastering advanced DBMS patterns (PostgreSQL), and containerizing services with Docker.
+-  **Current Focus:**Optimizing high-throughput data streams, mastering advanced database patterns (PostgreSQL/SQL), and containerizing micro-services for automated deployment.
 -  **Core Foundation:** Strong understanding of Operating Systems (OS), Computer Networks (CN), and low-level Embedded Hardware interfaces (I2C, SPI, UART).
 -  **Long-term Vision:** Bridging the gap between cloud infrastructure and edge devices (Robotics, 3D Simulations, and Real-Time Systems).
 
