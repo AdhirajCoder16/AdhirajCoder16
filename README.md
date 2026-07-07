@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+%26+Systems+Engineer;Backend+%2B+DevOps+Builder;Autonomous+Systems+Enthusiast&center=true&width=500&height=50&color=%23FF9933">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+%26+Systems+Engineer;Backend+%2B+DevOps+Builder;Autonomous+Systems+Engineer&center=true&width=500&height=50&color=%23FF9933">
 </p>
 
 <img align="right" alt="coding" width="350" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
