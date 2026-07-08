@@ -71,11 +71,40 @@ A Software Engineer deeply focused on building **high-performance backend archit
 
 ---
 
-<h3 align="center">GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhirajcoder16&theme=radical" height="140"/>
-</p>
+##  GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhirajCoder16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhirajCoder16&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhirajCoder16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
+</div>
+
+---
+
+##  GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdhirajCoder16&theme=tokyonight&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
+</div>
+
+---
+
+##  Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhirajCoder16&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+##  Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdhirajCoder16/AdhirajCoder16/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
 ### Dev Quote for Motivation 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
