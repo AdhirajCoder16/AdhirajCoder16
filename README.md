@@ -84,14 +84,6 @@ A Software Engineer deeply focused on building **high-performance backend archit
 
 ---
 
-##  GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdhirajCoder16&theme=tokyonight&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
 ##  Contribution Activity
 
 <div align="center">
